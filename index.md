@@ -8,4 +8,4 @@ title: Conference 2025
 - And some more stuff
 - Even more
 
-<img src="hhu-logo.png" alt="HHU Logo" style="max-width: 5%; height: auto;">
+<img src="hhu-logo.png" alt="HHU Logo" style="max-width: 25%; height: auto;">
