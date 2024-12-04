@@ -8,4 +8,4 @@ title: Conference 2025
 - And some more stuff
 - Even more
 
-![logo](hhu_logo.pdf)
+![logo](hhu-logo.pdf)
