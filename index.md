@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Conference 2025
 ---
 
 # Test Header
